@@ -1,3 +1,13 @@
 {
   "title": "Пример данных",
   "description": "Это простой пример JSON-объекта.",
+"data": {
+    "name": "Расим",
+    "age": 27,
+"skills": [
+      "Postman",
+      "Charles",
+      "Devtools"
+    ]
+  }
+}
